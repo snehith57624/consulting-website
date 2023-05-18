@@ -1,0 +1,1 @@
+web: ./bin/www npm install --legacy-peer-deps=true
